@@ -34,7 +34,7 @@ This project uses **unsupervised learning (K-Means clustering)** to group handwr
 
 ## 🚀 Run on Google Colab
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gorachand2501/kmeans-image-clustering/blob/main/kmeans_mnist_clustering.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gorachand2501/kmeans-image-clustering-on-mnist/blob/main/K_Means_Image_Clustering_on_MNIST.ipynb)
 
 ## ✍️ Author
 
